@@ -1,0 +1,42 @@
+.job {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    --color: rgb(80, 80, 241);
+} 
+.box {
+    position: absolute;
+    top: 10%;
+    left: -60px;
+    width: 40px;
+    height: 100px;
+    background-color: var(--color); 
+}
+.row {
+    display: flex;
+    margin-bottom: 20px;
+    color: var(--color); 
+    font-size: 12px;
+}
+.date_item {
+    margin-top: 15px;
+    flex: 1;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.location_item {
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.job_position {
+    margin-top: -10px;
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+.company_name {
+    margin-bottom: 0px;
+}
+.accomplishments {
+    margin-bottom: 10px;
+    font-size: 13px;
+    color: var(--color);
+}

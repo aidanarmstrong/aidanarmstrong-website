@@ -1,0 +1,226 @@
+{
+    "work": {
+        "left": [
+            {
+                "date_from_to": "Nov 2021 – Present",
+                "location": "Newcastle Upon Tyne, United Kingdom",
+                "job_title": "Software Engineer",
+                "company": "Komodo Digital",
+                "accomplishments": "I worked as a lead software engineer on a number of projects in React & React Native, Typescript to deliver a fully functional project to each client, I worked with designers to build the clients project to full within the scopes of their budgets, keeping the client informed on all updates to their goals and objectives."
+            },
+            {
+                "date_from_to": "March 2021 – Nov  2021",
+                "location": "  Liverpool, United Kingdom",
+                "job_title": "Software Engineer",
+                "company": "Active housing by Hallnet",
+                "accomplishments": "I work as a software engineer for Hallnet. Hallnet is a software company specialising in social housing software for councils and landlords, I develop and maintain their active housing applications backend software which integrates into their Portal which their customers use. I am also in charge of developing a React Native App for both IOS & Android which is used for their portal for all of their customers."
+            },
+            {
+                "date_from_to": "July 2019 – March 2021",
+                "location": "Liverpool, United Kingdom",
+                "job_title": "Full Stack Developer",
+                "company": "Ingot Portal",
+                "accomplishments": "I worked as a Full Stack Developer at Ingot Portal to build and maintain their existing web platform, which allows global freight companies to book and track their shipments. I work on technology that makes use of Angular and Symphony PHP to deliver a well-built strong architecture for their users. I built symphony commands to use fake data to populate developers databases quickly and easily using fixtures. I have also had experience with AWS services and worked on software where we integrated HMRC API’s on their developer hub."
+            },
+            {
+                "date_from_to": "Sept 2018 – Apr 2019",
+                "location": "Liverpool, United Kingdom",
+                "job_title": "KeyScore",
+                "company": "",
+                "accomplishments": "KeyScore is a project I have built as a personal project of mine. It was developed to help expand software developer’s computer life spans. KeyScore is an online IDE as a Service which allows users to upload and programme in any programming language that they want to, they can log into their account and open saved projects and use a terminal or console. This was developed as my final year project that I had to do for my bachelor’s degree. I have launched this on GitHub as an Open Source project."
+            }
+        ],
+        "right": [
+            {
+                "date_from_to": "Jun 2018 – Sept 2018",
+                "location": "Omagh, United Kingdom",
+                "job_title": "E-Commerce Store",
+                "company": "",
+                "accomplishments": "Over the summer of 2018, I got a freelance job to create an online e-commerce website for a business in my local town, they wanted to allow users to type in sizes for particular products that they sell, it would generate a price for them, I created a shopping cart and a payment system using Stripe's API. I am currently doing advertising for them and bringing the business into the modern day selling. Using Google analytic services."
+            },
+            {
+                "date_from_to": "May 2018 – Jun 2018",
+                "location": " Liverpool, United Kingdom",
+                "job_title": "Software Tester and Developer",
+                "company": "Rescon Technologies",
+                "accomplishments": "I was accepted into a 20-day internship to test different software for bugs and to develop software for the NHS. I created an online tool training guide website where admins can login and upload new training guides for their customers on their platforms."
+            },
+            {
+                "date_from_to": "Jan 2018 – Apr 2018",
+                "location": "Liverpool, United Kingdom",
+                "job_title": "Cloud-based Integration Intern",
+                "company": "",
+                "accomplishments": "I created a web application for the biomedical department at LJMU that allowed doctors to create patients to upload gait sensor data so that it would be converted into different charts and feed that information in a structured way to the account user."
+            },
+            {
+                "date_from_to": "Jun 2016 – Aug 2017",
+                "location": "Liverpool, United Kingdom",
+                "job_title": "Pixom",
+                "company": "",
+                "accomplishments": "I developed Pixom, it was an online streaming service which allowed users to watch and stream Movies and Tv Shows and allowed them to watch them with their friends through a virtual reality cinema using VR headsets. I got to learn a lot of new skills when building this project."
+            },
+            {
+                "date_from_to": "Nov 2016 – Jan 2017",
+                "location": "Liverpool, United Kingdom",
+                "job_title": "Pixom",
+                "company": "Citrus Suite",
+                "accomplishments": "I got to work alongside a passionate team of software developers and helped to create multiple websites and applications, as well as testing applications for any related bugs within the software. I have also gained real valuable knowledge from this experience."
+            }
+        ]
+    },
+    "education": {
+        "left": [
+            {
+                "date_from_to": "Sept 2008 – Jun 2015",
+                "location": "Omagh, United Kingdom",
+                "school": "Sacred Heart College",
+                "grades": "<b>GCSE:</b> Maths (C), English (C), Science(C), IT (B) B-Tech: Information Technology and Networking Management (Distinction*) <br/><br/> <b>A-Levels:</b> Single Award IT (C), Double Award Construction and the Environment (Merit, Pass)."
+            },
+            {
+                "date_from_to": "Sept 2015– Jun 2016",
+                "location": "Liverpool, United Kingdom",
+                "school": "Liverpool John Moores University",
+                "grades": "Foundation Degree: Engineering and Technology: (<b>Pass</b>)"
+            },
+            {
+                "date_from_to": "Sept 2016– July 2019",
+                "location": "Liverpool, United Kingdom",
+                "school": "Liverpool John Moores University",
+                "grades": "Bachelor of Science (<b>Honours</b>) in Computer Science: (<b>2:2</b>)"
+            }
+        ]
+    },
+    "achievements": {
+        "left": [
+            {
+                "date_from_to": "May 2013",
+                "name": "Full Clean UK driving licence",
+                "description": null
+            },
+            {
+                "date_from_to": "Aug 2017",
+                "name": "LJMU Entrepreneurship",
+                "description": "I completed an 8-week entrepreneurship course in which I co-founded a business and had to pitch in front of 5 judges for a financial capital. We placed 2nd within the 6 groups. We learnt skills such as Scrum and the need for market research."
+            }
+        ]
+    },
+    "languages": [
+        {
+            "name": "English"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "C#"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "F#"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "Sass"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "React Native"
+        },
+        {
+            "name": "Angular"
+        },
+        {
+            "name": "Symphony PHP"
+        },
+        {
+            "name": "Laravel PHP"
+        },
+        {
+            "name": "Vue.js"
+        } 
+    ],
+    "intrests": [
+        {
+            "name": "Programming"
+        },
+        {
+            "name": "Astronomy"
+        },
+        {
+            "name": "Physics"
+        },
+        {
+            "name": "Video Games"
+        },
+        {
+            "name": "Artificial Intelligence"
+        },
+        {
+            "name": "Entrepreneurship"
+        },
+        {
+            "name": "Reading"
+        },
+        {
+            "name": "Engineering"
+        },
+        {
+            "name": "App Development"
+        },
+        {
+            "name": "UX/UI Design"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Micromanaging",
+            "amount": 80
+        },
+        {
+            "name": "Goal Oriented",
+            "amount": 90
+        },
+        {
+            "name": "Future Focused",
+            "amount": 95
+        },
+        {
+            "name": "Critical Thinking",
+            "amount": 75
+        },
+        {
+            "name": "Resiliency",
+            "amount": 70
+        },
+        {
+            "name": "Leadership",
+            "amount": 78
+        },
+        {
+            "name": "Creativity",
+            "amount": 70
+        },
+        {
+            "name": "Time Management",
+            "amount": 90
+        }
+    ] 
+}

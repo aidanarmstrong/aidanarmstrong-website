@@ -1,5 +1,5 @@
 .contacts {
-    min-height: 100vh;
+    min-height: 60vh;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -22,8 +22,7 @@
     align-items: flex-start;
     justify-content: flex-start;
     padding: 2rem 6rem 3rem;
-    width: 80%;
-    height: 100%;
+    width: 100%;
     margin-top: 2rem;
 }
 
@@ -130,7 +129,7 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-evenly;
-    flex: 0.6;
+    flex: 1;
     box-sizing: border-box;
     padding-left: 7rem;
     margin-top: 1.2rem;
@@ -158,12 +157,12 @@
 }
 
 .socialmedia-icons {
-    width: 90%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 1.5rem;
+    gap: 10rem;
     margin-top: 4rem;
 }
 

@@ -164,7 +164,7 @@ function Landing() {
                         <p>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>
-                            {headerData.resumePdf && (
+                            {/* {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
                                     download='resume'
@@ -175,7 +175,14 @@ function Landing() {
                                         Download CV
                                     </Button>
                                 </a>
-                            )}
+                            )} */}
+                             <NavLink
+                                to='/resume'
+                            >
+                                <Button className={classes.resumeBtn}>
+                                    View Résumé
+                                </Button>
+                            </NavLink>
                             <NavLink
                                 to='/#contacts'
                                 smooth={true}
