@@ -2,11 +2,18 @@
     "work": {
         "left": [
             {
-                "date_from_to": "Nov 2021 – Present",
+                "date_from_to": "Aug 2022 –  Present",
+                "location": "Perth, Western Australia",
+                "job_title": "React Native Mobile Developer",
+                "company": "Lotterywest",
+                "accomplishments": "I work as a react native mobile developer for lotterywest in control of releasing updates and bug fixes as well as designing UI improvment and features to enhance the millions of players in Western Australia."
+            },
+            {
+                "date_from_to": "Nov 2021 –  Jun 2022",
                 "location": "Newcastle Upon Tyne, United Kingdom",
                 "job_title": "Software Engineer",
                 "company": "Komodo Digital",
-                "accomplishments": "I worked as a lead software engineer on a number of projects in React & React Native, Typescript to deliver a fully functional project to each client, I worked with designers to build the clients project to full within the scopes of their budgets, keeping the client informed on all updates to their goals and objectives."
+                "accomplishments": "I workeded as a lead software engineer on a number of projects in React & React Native, Typescript to deliver a fully functional project to each client, I worked with designers to build the clients project to full within the scopes of their budgets, keeping the client informed on all updates to their goals and objectives."
             },
             {
                 "date_from_to": "March 2021 – Nov  2021",
